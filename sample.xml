@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-7"?>
+<testcases>
+	<testcase name="Testcase Test Name Here">
+		<summary>This is some summary data. Use CDATA if necessary.</summary>
+		<importance>4</importance>
+		<steps>
+			<step>
+				<step_number>1</step_number>
+				<actions>Action Data</actions>
+				<expectedresults>Result Data</expectedresults>
+			</step>
+			<step>
+				<step_number>2</step_number>
+				<actions>Action Data</actions>
+				<expectedresults>Result Data</expectedresults>
+			</step>
+			<step>
+				<step_number>3</step_number>
+				<actions>Action Data</actions>
+				<expectedresults>Result Data</expectedresults>
+			</step>
+		</steps>
+	</testcase>
+</testcases>
